@@ -10,33 +10,33 @@ The insights derived from this analysis can directly inform strategic decisions 
 
 # 🎯Key Business Questions Answered
 
--This analysis addresses the following strategic questions:
+- This analysis addresses the following strategic questions:
 
--What is the overall churn rate, and how does it compare to industry benchmarks?
+- What is the overall churn rate, and how does it compare to industry benchmarks?
 
--How does contract type influence customer retention and long-term loyalty?
+- How does contract type influence customer retention and long-term loyalty?
 
--Which payment methods are associated with higher churn risk, and why?
+- Which payment methods are associated with higher churn risk, and why?
 
--How does customer tenure impact churn behavior at different lifecycle stages?
+- How does customer tenure impact churn behavior at different lifecycle stages?
 
--What customer segments represent the highest churn risk, and how can they be proactively targeted?
+- What customer segments represent the highest churn risk, and how can they be proactively targeted?
 
 # 🛠️Tools & Techniques
 
 The project was executed using:
 
--Microsoft Excel – Primary analysis and dashboard platform
+- Microsoft Excel – Primary analysis and dashboard platform
 
--Pivot Tables – Data summarization and cross-tabulation
+- Pivot Tables – Data summarization and cross-tabulation
 
--Data Cleaning – Handling missing values, standardizing formats
+- Data Cleaning – Handling missing values, standardizing formats
 
--Data Visualization – Charts, graphs, and conditional formatting
+- Data Visualization – Charts, graphs, and conditional formatting
 
--Interactive Dashboard Design – Slicers, timelines, and dynamic elements
+- Interactive Dashboard Design – Slicers, timelines, and dynamic elements
 
--KPI Metrics – Key performance indicators for quick insights
+- KPI Metrics – Key performance indicators for quick insights
 
 # Overall Customer Churn
 The dataset reveals an overall churn rate of approximately 27%, meaning more than one-quarter of customers discontinue the service. This represents a significant revenue leakage opportunity.
@@ -48,11 +48,11 @@ Customers with longer commitments demonstrate substantially higher retention, su
 
 Payment method preferences correlate strongly with churn patterns:
 
--Electronic check payments account for the majority of churned customers
+- Electronic check payments account for the majority of churned customers
 
--Automatic payment methods (credit card, bank transfer) show significantly lower churn rates
+- Automatic payment methods (credit card, bank transfer) show significantly lower churn rates
 
--This suggests that payment friction or financial instability may contribute to higher churn among manual payment users.
+- This suggests that payment friction or financial instability may contribute to higher churn among manual payment users.
 
 # Service Type Patterns
 
