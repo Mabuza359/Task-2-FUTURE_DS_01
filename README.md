@@ -1,4 +1,4 @@
-📊 ##Customer Retention & Churn Analysis Dashboard##
+📊 ##Customer Retention & Churn Analysis Dashboard
 
 📋 ##Overview##
 
